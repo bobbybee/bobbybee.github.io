@@ -1,0 +1,63 @@
+body {
+  background-color: #EEE;
+  font-family: "Lucida Console", Monaco, monospace;
+  margin-left: 5%;
+  margin-right: 5%;
+  overflow-x: hidden;
+}
+
+.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 10%;
+  background-color: #CCC;
+  font-size: 250%;
+  text-align: center;
+}
+
+.content {
+  position: absolute;
+  top: 10%;
+  width: 95%;
+}
+
+.post_title {
+  margin-bottom: 0;
+}
+
+.post_subtitle {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.post_info {
+  position: relative;
+  left: -5%;
+  text-align: center;
+}
+
+.post_date {
+  font-style: italic;
+}
+
+.post {
+  font-size: 120%;
+}
+
+.footer {
+  font-size: 80%;
+  text-align: right;
+  position: relative;
+  left: -5%;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  margin-bottom: 0;
+}
