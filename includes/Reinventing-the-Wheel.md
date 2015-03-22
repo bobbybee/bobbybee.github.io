@@ -29,3 +29,7 @@ We _have_ to reinvent the wheel once in a wheel to learn (pun intended). Reinven
 You will be a better inventor, a better creator, a better programmer, a better engineer for it. And this applies to any field: many artists copy historic paintings as a part of their study; many writers have written "Cute boy meets beautiful girl, and their last names are Montague and Capulet respectively".
 
 The wheel has been getting rather rusty recently :)
+
+### A Final Note of Caution
+
+These clone projects must still be written for academic reasons-- only write a project like _tiny.js_ if you feel you can learn something from its creation. Simply creating something for the sake of creation neither helps others nor helps yourself. If you feel the desire to reinvent something, at a minimum be honest _with yourself_ about your motivation for doing so.
